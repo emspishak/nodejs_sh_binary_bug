@@ -11,3 +11,5 @@ Results in the error message:
 ```
 ERROR: cannot find build_bazel_rules_nodejs/third_party/github.com/bazelbuild/bazel/tools/bash/runfiles/runfiles.bash
 ```
+
+Issue: https://github.com/bazelbuild/rules_nodejs/issues/3505
