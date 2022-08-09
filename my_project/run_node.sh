@@ -1,3 +1,3 @@
 #!/bin/bash
 
-my_project/NodeHello.sh
+my_project/NodeHelloWorking
