@@ -16,3 +16,9 @@ sh_binary(
     srcs = ["run_node.sh"],
     data = [":NodeHelloWorking"],
 )
+
+sh_test(
+    name="RunNode_test",
+    srcs = ["run_node.sh"],
+    data = [":NodeHelloWorking"],
+)
